@@ -1,0 +1,30 @@
+{
+  "video1": {
+    "label": "video1",
+    "total_frames": 98,
+    "fps": 30.0,
+    "seam": {
+      "detection_count": 44,
+      "detection_rate_pct": 44.89795918367347,
+      "orientation_count": 34,
+      "orientation_rate_pct": 34.69387755102041
+    },
+    "saved_frames": {
+      "seam_best": "docs/frames/video1_seam_best.jpg"
+    }
+  },
+  "video2": {
+    "label": "video2",
+    "total_frames": 85,
+    "fps": 30.0,
+    "seam": {
+      "detection_count": 41,
+      "detection_rate_pct": 48.23529411764706,
+      "orientation_count": 30,
+      "orientation_rate_pct": 35.294117647058826
+    },
+    "saved_frames": {
+      "seam_best": "docs/frames/video2_seam_best.jpg"
+    }
+  }
+}
